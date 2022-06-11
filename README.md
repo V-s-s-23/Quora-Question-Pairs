@@ -22,6 +22,6 @@ No. of duplicate data points is 149263
 # EDA :- 
 
 1. Common words ->
-2. C:\Users\Asus 
+2. 
 3.  we can see if words in question1 and question2 are less than 4 , there is high probability that it will be "NON DUPLICATE"
     or if it more than 4 , there is high probability it will be"Duplicate"
