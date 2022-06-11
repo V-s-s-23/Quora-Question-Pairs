@@ -22,6 +22,20 @@ No. of duplicate data points is 149263
 # EDA :- 
 
 1. Common words ->
-2. 
-3.  we can see if words in question1 and question2 are less than 4 , there is high probability that it will be "NON DUPLICATE"
-    or if it more than 4 , there is high probability it will be"Duplicate"
+
+  ![download](https://user-images.githubusercontent.com/103623927/173188171-9b79fb79-fe26-496b-bb80-a3e3fefc4206.png)
+  
+   we can see if words in question1 and question2 are less than 4 , there is high probability that it will be "NON DUPLICATE" or if it more than 4 , there is high          probability it will be"Duplicate"
+
+2. Total words:-
+
+![download (1)](https://user-images.githubusercontent.com/103623927/173188318-8b378a77-a5cb-4b02-a0f6-2b651dc9c7db.png)
+
+If total_word is in range 0-25 their is high chance it will be duplicate or if total words are more than 25 their is high chance it will be non_duplicate.
+
+3. Words share:-
+
+![download (2)](https://user-images.githubusercontent.com/103623927/173188407-048c2792-5f04-4885-b7df-35d6b7cc92d9.png)
+
+we can see if word_share in question1 and question2 are less than 0.2 , there is high probability that it will be "NON DUPLICATE"
+ or if it more than 0.2 , there is high probability it will be"Duplicate"
